@@ -1,0 +1,55 @@
+
+.container_style{
+    width: 50%;
+    height: 50%;
+    background-color: #008B8B;
+    margin: auto;
+    margin-top: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    padding: 16px;
+}
+
+h1{
+    color: white;
+    text-align: center;
+    font-size: 24px;
+    text-shadow: 2px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.text_input_style{
+    margin-top: 10px;
+}
+
+button, input{
+    margin-top: 10px;
+    cursor: pointer;
+}
+.date_picker_width{
+    width: 100px;
+}
+
+.react-datepicker__input-container {
+    width: inherit;
+  }
+  
+  .react-datepicker-wrapper {
+    width: 100%;
+  }
+.list-group-item{
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+.clear_reminder_btn{
+    margin-top: 10px;
+    cursor: pointer;
+}
